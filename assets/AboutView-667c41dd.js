@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as e}from"./index-d78514e7.js";const c={},_={class:"about"},a=e("h1",null,"This is an about page",-1),n=e("div",{class:"flex flex-col"},[e("div",{class:"bottom-2"},"tailwindcss"),e("div",{class:"flex-1 border"},"hello tailwindcss")],-1),i=[a,n];function l(d,r){return t(),o("div",_,i)}const f=s(c,[["render",l]]);export{f as default};
